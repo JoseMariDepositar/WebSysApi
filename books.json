@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "The great gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "available": true
+  },
+  
+  {
+    "id": 2,
+    "title": "To kill a mocking bird",
+    "Author": "Harper lee",
+    "genre": "Fiction",
+    "available": false
+  }
+]
